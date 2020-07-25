@@ -1,11 +1,11 @@
 # accessiblity-code-refactor
 
-The purpose of the Accessibilty Code Refactor repository is to structure Horiseon's existing webpage in order to respect current accissablity standards and to optimize their site for SEO. 
+The purpose of the Accessibility Code Refactor repository is to structure Horiseon's existing webpage in order to respect current accessibility standards and to optimize their site for SEO. 
 
 ## Objective:
 
 - Source code meets accessibility standards
-- Semantic HTML elemants are used for readability
+- Semantic HTML elements are used for readability
 - Image elements have descriptive alt text
 - Source code is cleaned up and optimized
 
@@ -22,4 +22,4 @@ I would still like to optimize the current CSS styles to reduce redundancy, but 
 
 
 
-This appliaction was authored by [Diego Hernandez](https://github.com/Diegopie)
+This application was authored by [Diego Hernandez](https://github.com/Diegopie)
